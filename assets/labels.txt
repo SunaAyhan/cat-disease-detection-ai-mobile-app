@@ -1,0 +1,5 @@
+0 fungal
+1 mange
+2 ringworm
+3 cat_acne
+4 healthy_cat
